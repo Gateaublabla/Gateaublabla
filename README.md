@@ -3,7 +3,7 @@
 
 - Je développe actuellement mon propre site. [IBENJI](https://ibenji.fr/)
 
-- 👨‍💻 Mon Portfolio [https://ibenji.fr/competences](https://ibenji.fr/competences)
+- 👨‍💻 Mon Portfolio [https://ibenji.fr/](https://ibenji.fr/)
 
 - 📫 Me contacter **contact@ibenji.fr**
 
